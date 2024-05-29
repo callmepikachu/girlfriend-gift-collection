@@ -143,7 +143,7 @@ VITE_CHAT_OPTIONS_PATH=options/demo/chat.json
     "paragraphs": [
         "几场梅雨^1000，几卷荷风^1000，江南已是烟水迷离。",
         "<img src='options/demo/imgs/test.png'/>",
-        "几场梅雨^1000，几卷荷风^1000，江南已是烟水迷离。",
+        "几场梅雨^1000，几卷荷风^1000，江南已是烟水迷离。"
     ]
 }
 
