@@ -6,4 +6,4 @@ export BASE_PATH=$(cd `dirname $0`;pwd)
 cd $BASE_PATH/../
 yarn
 #echo "yarn build --mode $1"
-yarn build --mode 'development'
+yarn build --mode 'production'
