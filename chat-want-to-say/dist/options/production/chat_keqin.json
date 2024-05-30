@@ -1,0 +1,229 @@
+[
+  {
+    "msgs": [
+      "<img src='options/production/imgs/sign.jpg'/>"
+    ]
+  },
+  {
+    "msgs": [
+      "hi，你好，请问你知道上面这张图是什么意思嘛?"
+    ],
+    "msgInputSpeed": 1,
+    "triggerNextAction": {
+      "type": "userInput",
+      "options": {
+        "resolveKeyTexts": [
+          "TZQ","汤紫淇"
+        ],
+        "rejectKeyTexts": [],
+        "rejectHitTexts": [
+          "你我本无缘~",
+          "你我本无缘~",
+          "你我本无缘~",
+          "你我本无缘~",
+          "你我本无缘~",
+          "你我本无缘~",
+          "你我本无缘~",
+          "你我本无缘~",
+          "你我本无缘~",        "你我本无缘~",
+          "你我本无缘~",
+          "你我本无缘~",
+          "你我本无缘~",
+          "你我本无缘~",
+          "你我本无缘~",
+          "你我本无缘~",
+          "你我本无缘~",
+          "你我本无缘~",
+          "你我本无缘~",
+          "你我本无缘~",
+          "你我本无缘~",
+          "你我本无缘~",
+          "你我本无缘~",
+          "你我本无缘~",
+          "你我本无缘~",        "你我本无缘~",
+          "你我本无缘~",
+          "你我本无缘~",
+          "你我本无缘~",
+          "你我本无缘~",
+          "你我本无缘~",
+          "你我本无缘~",
+          "你我本无缘~",
+          "你我本无缘~",
+          "你我本无缘~",
+          "你我本无缘~",
+          "你我本无缘~",
+          "你我本无缘~",
+          "触发强行跳过"
+        ]
+      }
+    }
+  },
+  {
+    "msgs": [
+      "暗号对上了"
+    ],
+    "msgInputSpeed": 1
+  },
+  {
+    "msgs": [
+      "Hey, 紫淇！我是Keqin在网络空间里的一个助手，他想在你生日的当天，给你一些小惊喜~"
+    ],
+    "msgInputSpeed": 1
+  },
+  {
+    "msgs": [
+      "他说你的愿望，是收到一份独属于你的代码。"
+    ],
+    "msgInputSpeed": 20
+  },
+  {
+    "msgs": [
+      "这其实有点点难，因为代码不是为了传递心意而生的"
+    ],
+    "msgInputSpeed": 20
+  },
+  {
+    "msgs": [
+      "比如我，虽然在打字，但是我的底层是机器通路的开闭和奔腾的电流。"
+    ],
+    "msgInputSpeed": 20
+  },
+  {
+    "msgs": [
+      "我对于如何查收文件，如何计算数字，如何控制电路很专业，但是要如何把他的心传递给你，我不知道从哪儿开始"
+    ],
+    "msgInputSpeed": 1
+  },
+  {
+    "msgs": [
+      "（此刻表情如下图"
+    ],
+    "msgInputSpeed": 400
+  },
+  {
+    "msgs": [
+      "<img src='options/production/imgs/wunai.webp'/>"
+    ]
+  },
+  {
+    "msgs": [
+      "但他倒好，去学习和解密了电脑端WeChat的数据库，统计了你们聊天当中最常出现的一些话题和词语，依据关键词出现的频率，画出了这样一张图"
+    ],
+    "msgInputSpeed": 8
+  },
+  {
+    "msgs": [
+      "虽然我强烈不认为这也能算礼物"
+    ],
+    "msgInputSpeed": 80
+  },
+  {
+    "msgs": [
+      "<img src='options/production/imgs/wordCloud.PNG'/>"
+    ]
+  },
+  {
+    "msgs": [
+      "（建议右键点击用新网页看）图里面，体型越大、占据位置越中心的词语，在你们的聊天中出现的最多"
+    ],
+    "msgInputSpeed": 8
+  },
+  {
+    "msgs": [
+      "但我不得不说，你们的聊天，有点……"
+    ],
+    "msgInputSpeed": 80
+  },
+  {
+    "msgs": [
+      "甜"
+    ],
+    "msgInputSpeed": 80
+  },
+  {
+    "msgs": [
+      "对不起，这不是我一个机器人应该发表的言论"
+    ],
+    "msgInputSpeed": 8
+  },
+  {
+    "msgs": [
+      "Error"
+    ],
+    "msgInputSpeed": 8
+  },
+  {
+    "msgs": [
+      "不过，还有一份礼物"
+    ],
+    "msgInputSpeed": 80
+  },
+  {
+    "msgs": [
+      "他一直在脑子里思考你，阅读你，这让他能比别人看得更仔细，发现很多神奇的美。"
+    ],
+    "msgInputSpeed": 1
+  },
+  {
+    "msgs": [
+      "他总结关于你的形容词，解析照片，填充文字，做出了这张图"
+    ],
+    "msgInputSpeed": 40
+  },
+  {
+    "msgs": [
+      "<img src='options/production/imgs/char_pic.png'/>"
+    ]
+  },
+  {
+    "msgs": [
+      "字符的颜色取自你的微信头像，背景取反色。不安定，憋着劲儿的黄色。"
+    ],
+    "msgInputSpeed": 1
+  },
+
+  {
+    "msgs": [
+      "你可以右键打开，下载下来，就可以看到全尺寸的图像啦"
+    ],
+    "msgInputSpeed": 40
+  },
+  {
+    "msgs": [
+      "哦别着急，还有一封信件，他嘱咐过我，要亲手交给你，还不让我看。他居然信不过我这个机器人"
+    ],
+    "msgInputSpeed": 8
+  },
+  {
+    "msgs": [
+      "（−＿−；）"
+    ],
+    "msgInputSpeed": 1
+  },
+  {
+    "msgs": [
+      "<letter src='options/demo/letters/letter_keqin.json'/>"
+    ],
+    "triggerNextAction": {
+      "type": "componentClose"
+    }
+  },
+  {
+    "msgs": [
+      "看完啦？咋样？"
+    ],
+    "msgInputSpeed": 80
+  },
+  {
+    "msgs": [
+      "把眼泪擦一擦嘛，这个网址在呢，我在呢，一直都在。"
+    ],
+    "msgInputSpeed": 40
+  },
+  {
+    "msgs": [
+      "期待3号晚上和你相遇！"
+    ],
+    "msgInputSpeed": 40
+  }
+]
